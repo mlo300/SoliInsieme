@@ -116,6 +116,52 @@ a.btn.btn-white{
     visibility: hidden;
 }
 
-div.page-separator .display-1 {
+div.row .mb-32pt {
     color: white !important;
+}
+
+[dir] .bg-secondary {
+    background-color: #e0aa3e !important;
+}
+
+strong {
+    color: white !important;
+}
+
+span.text-muted {
+    color: white !important;
+}
+
+p.text-70 {
+    color: white !important;
+}
+
+small.text-muted{
+    color: white !important;
+}
+
+span.card-title {
+    color: white !important;
+}
+
+div.media-body
+p.text-50 {
+    color: white !important;
+}
+
+div.pb-16pt.mb-16pt.border-bottom.row.rating {
+    border-bottom: 1px solid #1e242a !important;
+}
+
+/* Carrello */
+div.col-lg-4 
+div.card{
+    background-color: #1e242a;
+    border: 1px solid #1e242a !important;
+}
+
+div.col-lg-4 
+div.card
+a.btn.mb-8pt.btn-block.d-block.btn_cart {
+    background: #e0aa3e !important;
 }
