@@ -163,5 +163,53 @@ div.card{
 div.col-lg-4 
 div.card
 a.btn.mb-8pt.btn-block.d-block.btn_cart {
-    background: #e0aa3e !important;
+    background: #5aff3d !important;
+}
+
+div.col-lg-4 
+div.card
+a.btn.mb-8pt.btn-block.d-block.btn_cart:hover {
+    background: #9fff7d !important;
+}
+
+div.media-body.d-flex.flex-column
+a.card-title {
+    color: white !important;
+    transition: color 0.2s ease; 
+}
+
+div.media-body.d-flex.flex-column
+a.card-title:hover {
+    color: #f7ef8a !important;
+}
+
+
+#teacher_navbar.bg-white {
+    background-color: #e0aa3e !important;
+    border: none !important;
+}
+
+#teacher_navbar 
+span.avatar
+i {
+    color: white;
+    background-color: black;
+}
+
+#teacher_navbar .text-muted {
+    color: white !important;
+}
+
+#teacher_navbar span.avatar-title {
+    background-color: black !important;
+}
+
+#teacher_navbar 
+span.border-1 {
+    border: none !important;
+    color: white !important;    
+}
+
+strong.card-title {
+    color: black !important;
 }
