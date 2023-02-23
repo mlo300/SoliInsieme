@@ -1,0 +1,70 @@
+[dir] body {
+    background-image: url('https://res.cloudinary.com/dvqviprwp/image/upload/v1677094750/ezgif.com-webp-to-png_z9tfkj.png');
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+div.card {
+    border: 2px solid black !important;
+    transition: background-color 0.2s ease;
+}
+
+div.card-body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #8a9bab;
+}
+
+label.control-label {
+    color: white !important ;
+}
+
+[dir] .bg-white{
+    border: 1px solid #1e242a !important;
+    background-color: #1e242a !important;
+    color: white;
+    transition: background-color 0.2s ease;
+}
+
+[dir] .bg-white:focus{
+    border: 1px solid #404d5a !important;
+    background-color: #404d5a !important;
+    color: white;
+}
+
+[dir] .form-control {
+    border: 1px solid #1e242a !important;
+    background-color: #1e242a;
+    color: white;
+    transition: background-color 0.2s ease;
+}
+    
+[dir] .form-control:focus {
+    border: 1px solid #404d5a !important;
+    background-color: #404d5a;
+    color: white;
+}
+
+button.btn.btn-primary {
+    background-color: #1e242a;
+    transition: background-color 0.2s ease;
+}
+
+button.btn.btn-primary:hover {
+    background-color: #404d5a;
+}
+
+
+[dir] .btn-primary {
+    box-shadow: inset 0 1px 0 hsla(0,0%,100%,.15),0 1px 1px #1e242a;
+}
