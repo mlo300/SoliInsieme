@@ -1,0 +1,167 @@
+[dir] body {
+    background-image: url('https://res.cloudinary.com/dvqviprwp/image/upload/v1677094750/ezgif.com-webp-to-png_z9tfkj.png');
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+div.mdk-box [dir] .pb-64pt, [dir] .py-64pt {
+  padding-bottom: 20rem !important;
+}
+div.mdk-box [dir] .pt-64pt, [dir] .py-64pt {
+  padding-top: 10rem !important;
+}
+
+div.mdk-box .mdk-box__content .bg-white {
+      background-color: #e0aa3e !important;
+}
+
+div.mdk-box .mdk-box__content .border-bottom-2 {
+    border: none !important;
+}
+div.mdk-box .mdk-box__content .page__container .navbar-nav{
+    color: white;
+}
+div.mdk-box .mdk-box__content .card-title{
+     color: white;
+}
+
+div.page-section .list-unstyled .text-50 {
+    color: #f7ef8a !important;
+}
+
+div.page-section .list-unstyled .text-70 {
+    font-size: 0.89rem;
+    color: white !important;
+}
+
+div.page-section .row .col-md-7 p {
+    color: white !important;
+}
+div .page-separator .page-separator__text {
+    background-color: transparent;
+    color: #e0aa3e;
+    font-size: 1.3rem;
+}
+
+div.page-section.border-bottom-2 {
+    border: none !important;
+}
+
+div.page-section.border-bottom-2.py-2 {
+    background-color: #e0aa3e;
+    border: none !important;
+}
+
+div.page-section.border-bottom-2.py-2 
+span.avatar-title{
+    background-color: black !important;
+}
+
+div.page-section.border-bottom-2.py-2 
+span.border-2 {
+    border: none !important;
+}
+
+div.page-section.border-bottom-2.py-2 
+span.badge {
+    color: white;
+}
+
+div.border-left-2.page-section.pl-32pt.py-8pt {
+    border-color: #e0aa3e !important;
+}
+
+div.border-left-2.page-section.pl-32pt.py-8pt
+div.page-num {
+    background-color: #e0aa3e !important;
+    border: 2px solid #e0aa3e !important;
+    color: white;
+}
+
+div.border-left-2.page-section.pl-32pt.py-8pt
+a {
+    color: white;
+}
+
+div.border-left-2.page-section.pl-32pt.py-8pt
+h4.my-auto {
+    color: white;
+}
+
+div.card.card-sm.card--elevated.p-relative.overlay.js-overlay.card-group-row__card {
+    border: 3px solid #1e242a !important;
+    background-color: #1e242a;
+    
+}
+
+div.card.card-sm.card--elevated.p-relative.overlay.js-overlay.card-group-row__card
+div.card-footer {
+    border: 1px solid #1e242a !important;
+    background-color: #1e242a;
+    color: white;
+}
+
+div.card.card-sm.card--elevated.p-relative.overlay.js-overlay.card-group-row__card
+.text-50 {
+    color: white !important;
+}
+
+div.card.card-sm.card--elevated.p-relative.overlay.js-overlay.card-group-row__card
+.text-20 {
+    color: white !important;
+}
+
+div.container.page__container 
+a.btn.btn-white{
+    visibility: hidden;
+}
+
+div.row .mb-32pt {
+    color: white !important;
+}
+
+[dir] .bg-secondary {
+    background-color: #e0aa3e !important;
+}
+
+strong {
+    color: white !important;
+}
+
+span.text-muted {
+    color: white !important;
+}
+
+p.text-70 {
+    color: white !important;
+}
+
+small.text-muted{
+    color: white !important;
+}
+
+span.card-title {
+    color: white !important;
+}
+
+div.media-body
+p.text-50 {
+    color: white !important;
+}
+
+div.pb-16pt.mb-16pt.border-bottom.row.rating {
+    border-bottom: 1px solid #1e242a !important;
+}
+
+/* Carrello */
+div.col-lg-4 
+div.card{
+    background-color: #1e242a;
+    border: 1px solid #1e242a !important;
+}
+
+div.col-lg-4 
+div.card
+a.btn.mb-8pt.btn-block.d-block.btn_cart {
+    background: #e0aa3e !important;
+}
